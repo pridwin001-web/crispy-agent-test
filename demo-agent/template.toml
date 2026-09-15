@@ -1,5 +1,5 @@
 id = "github-demo-agent"
-version = "1.1.0"
+version = "1.2.0"
 prompt = "prompt.md"
 capabilities = []
 description = "Harmless Cri$py remote-import integration test."
